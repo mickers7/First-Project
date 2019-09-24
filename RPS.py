@@ -32,3 +32,4 @@ elif player == ("s"):
 else:
     print ("please try again")
 
+input('Press ENTER to exit')
